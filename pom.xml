@@ -7,6 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>1-boostraping</artifactId>
     <version>1.0.0</version>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
